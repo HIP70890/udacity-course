@@ -19,3 +19,5 @@ gradle-wrapper.properties
 gradlew
 gradlew.bat
 gradle-wrapper.jar
+course/02_category_widget/solution_02_category_widget/ios/Flutter/flutter_export_environment.sh
+course/02_category_widget/task_02_category_widget/ios/Flutter/flutter_export_environment.sh
